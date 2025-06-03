@@ -11,3 +11,7 @@ DOMAIN: JAVA PROGRAMMING
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
+
+-----------------
+Output:
+![Image](https://github.com/user-attachments/assets/05e1d0f0-590e-49bb-8353-8bb30e41298a)
