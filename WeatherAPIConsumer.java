@@ -49,3 +49,8 @@ public class WeatherAPIConsumer {
         }
     }
 }
+Output: === Weather Report ===
+City       : Pune
+Temperature: 24.78°C
+Humidity   : 75%
+Condition  : overcast clouds
